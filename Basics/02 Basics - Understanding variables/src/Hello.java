@@ -5,7 +5,7 @@ public class Hello {
 		// d_int value1;
 		// value1 = 1;
 		// d_int value1 = 1;
-		// d_int value2 = 2;
+		// int value2 = 2;
 		// System.out.println(value1);
 
 		// d_int value1=1, value2=2;
